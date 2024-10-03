@@ -16,7 +16,7 @@ const float circleX = lighterX;
 const float startCircleY = lighterY;
 
 const int circleCount = 3;
-const sf::Color colors[circleCount] = {sf::Color::Red, sf::Color::Yellow, sf::Color::Green};
+const sf::Color colors[] = {sf::Color::Red, sf::Color::Yellow, sf::Color::Green};
 
 
 
